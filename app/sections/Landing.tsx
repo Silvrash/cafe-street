@@ -25,6 +25,7 @@ const Landing = () => {
 				width={599}
 				height={394}
 				className={clsx('object-contain absolute -right-[15%] -top-[5%]', 'md:-right-10 md:-top-1')}
+				priority
 			/>
 
 			<Image
@@ -33,6 +34,7 @@ const Landing = () => {
 				width={569}
 				height={394}
 				className={clsx('object-contain absolute left-2 bottom-[30%]', 'md:-left-[10%] md:bottom-[35%]')}
+				priority
 			/>
 			<PageContainer.Content className="relative">
 				<nav className="flex flex-row justify-between items-center">
