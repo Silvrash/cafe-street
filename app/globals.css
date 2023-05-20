@@ -27,7 +27,7 @@ body {
 }
 
 .subscribe-bg {
-	background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/images/subscribe-bg.png);
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/images/subscribe-bg.webp);
 }
 
 .cappuccino_reveal {

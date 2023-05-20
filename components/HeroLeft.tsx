@@ -15,7 +15,7 @@ const HeroLeft = () => {
 				<button className="min-w-[10.611rem] rounded-full bg-coffee px-8 py-3 text-white text-sm font-semibold hover:bg-opacity-90 hover:drop-shadow-2xl transition duration-150">
 					Order now
 					<div className="inline-flex ml-2 bg-primary rounded-full w-6 h-6 items-center justify-center">
-						<Image src="/images/cart.png" alt="cart-icon" width={12} height={12} />
+						<Image src="/images/cart.webp" alt="cart-icon" width={12} height={12} />
 					</div>
 				</button>
 				<button className="text-[#F4AE26] text-sm font-semibold">More menu</button>

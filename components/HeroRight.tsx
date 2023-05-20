@@ -8,7 +8,7 @@ const HeroRight = (props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivEl
 			className={clsx('relative flex justify-center items-center w-[577px] h-[416px]', props.className)}
 		>
 			<div className="absolute right-0 top-0">
-				<Image src="/images/hero/img-hero.png" alt="landing_cup" width={416} height={416} />
+				<Image src="/images/hero/img-hero.webp" alt="landing_cup" width={416} height={416} />
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					width="577"

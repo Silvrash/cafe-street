@@ -13,17 +13,17 @@ const reviews: ReviewItem[] = [
 	{
 		name: 'Naura',
 		comment: 'I really love the cappuccino, the coffee was very smooth',
-		image: '/images/reviews/review-1.png',
+		image: '/images/reviews/review-1.webp',
 	},
 	{
 		name: 'John',
 		comment: 'this coffee shop is very convenient',
-		image: '/images/reviews/review-2.png',
+		image: '/images/reviews/review-2.webp',
 	},
 	{
 		name: 'Azura',
 		comment: 'the coffee menu here is very much',
-		image: '/images/reviews/review-3.png',
+		image: '/images/reviews/review-3.webp',
 	},
 ];
 

@@ -25,7 +25,7 @@ const PopularNow = () => {
 							</div>
 
 							<div className="inline-flex self-end self bg-primary rounded-full w-11 h-11 items-center justify-center">
-								<Image src="/images/cart.png" alt="cart-icon" width={18} height={17} />
+								<Image src="/images/cart.webp" alt="cart-icon" width={18} height={17} />
 							</div>
 						</div>
 					</div>
@@ -58,9 +58,9 @@ const PopularNow = () => {
 				<div
 					className={clsx('flex gap-10', 'w-screen overflow-y-auto lg:overflow-y-visible pb-10', 'lg:w-auto')}
 				>
-					{renderPopularProduct('Vanilla Latte', '/images/popular/card_product_1.png', '21 k')}
-					{renderPopularProduct('Espresso', '/images/popular/card_product_2.png', '12 k')}
-					{renderPopularProduct('Hazelnut Latte', '/images/popular/card_product_3.png', '23 k')}
+					{renderPopularProduct('Vanilla Latte', '/images/popular/card_product_1.webp', '21 k')}
+					{renderPopularProduct('Espresso', '/images/popular/card_product_2.webp', '12 k')}
+					{renderPopularProduct('Hazelnut Latte', '/images/popular/card_product_3.webp', '23 k')}
 				</div>
 			</PageContainer.Content>
 		</PageContainer>

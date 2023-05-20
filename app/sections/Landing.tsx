@@ -20,7 +20,7 @@ const Landing = () => {
 	return (
 		<PageContainer className="min-h-screen bg-[#F6EBDA] pt-9">
 			<Image
-				src="/images/hero/bg_img_hero_top.png"
+				src="/images/hero/bg_img_hero_top.webp"
 				alt="bg_img_hero"
 				width={599}
 				height={394}
@@ -28,7 +28,7 @@ const Landing = () => {
 			/>
 
 			<Image
-				src="/images/hero/bg_img_hero_bottom.png"
+				src="/images/hero/bg_img_hero_bottom.webp"
 				alt="bg_img_hero"
 				width={569}
 				height={394}

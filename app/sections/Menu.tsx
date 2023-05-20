@@ -13,42 +13,42 @@ interface MenuItem {
 
 const menu: MenuItem[] = [
 	{
-		image: '/images/menu/menu-1.png',
+		image: '/images/menu/menu-1.webp',
 		name: 'Sandwich',
 		desc: 'bread with meat and vegetables',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu/menu-2.png',
+		image: '/images/menu/menu-2.webp',
 		name: 'Hot Milk',
 		desc: 'Hot Milk with less sugar',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu/menu-3.png',
+		image: '/images/menu/menu-3.webp',
 		name: 'Coffe Ice Cream',
 		desc: 'Coffe with ice cream vanilla',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu/menu-4.png',
+		image: '/images/menu/menu-4.webp',
 		name: 'Cappucino',
 		desc: 'Hot Cappucino',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu/menu-5.png',
+		image: '/images/menu/menu-5.webp',
 		name: 'Moccacinno',
 		desc: 'Hot Moccacino',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu/menu-6.png',
+		image: '/images/menu/menu-6.webp',
 		name: 'Waffle Ice Crem',
 		desc: 'Wafle with Ice cream',
 		count: '12 K',
@@ -95,7 +95,7 @@ const Menu = () => {
 						<div className="">
 							<div className="font-bold text-2xl text-coffee">{item.count}</div>
 							<div className="mt-2 flex self-end self bg-primary rounded-full w-11 h-11 items-center justify-center">
-								<Image src="/images/cart.png" alt="cart-icon" width={18} height={17} />
+								<Image src="/images/cart.webp" alt="cart-icon" width={18} height={17} />
 							</div>
 						</div>
 					</div>

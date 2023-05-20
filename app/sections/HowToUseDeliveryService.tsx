@@ -32,14 +32,14 @@ const HowToUseDeliveryService = () => {
 					{renderService(
 						'choose your coffee',
 						'there are 20+ coffees for you',
-						'/images/services/service-1.png',
+						'/images/services/service-1.webp',
 					)}
 					{renderService(
 						'we delivery it to you',
 						'Choose delivery service',
-						'/images/services/service-2.png',
+						'/images/services/service-2.webp',
 					)}
-					{renderService('Enjoy your coffee', 'Choose delivery service', '/images/services/service-3.png')}
+					{renderService('Enjoy your coffee', 'Choose delivery service', '/images/services/service-3.webp')}
 				</div>
 			</PageContainer.Content>
 		</PageContainer>

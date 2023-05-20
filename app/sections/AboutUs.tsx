@@ -15,7 +15,7 @@ const AboutUs = () => {
 							)}
 						>
 							<Image
-								src="/images/about_expresso.png"
+								src="/images/about_expresso.webp"
 								alt="expresso"
 								width={359.13}
 								height={497.67}
