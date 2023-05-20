@@ -13,42 +13,42 @@ interface MenuItem {
 
 const menu: MenuItem[] = [
 	{
-		image: '/images/menu-1.png',
+		image: '/images/menu/menu-1.png',
 		name: 'Sandwich',
 		desc: 'bread with meat and vegetables',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu-2.png',
+		image: '/images/menu/menu-2.png',
 		name: 'Hot Milk',
 		desc: 'Hot Milk with less sugar',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu-3.png',
+		image: '/images/menu/menu-3.png',
 		name: 'Coffe Ice Cream',
 		desc: 'Coffe with ice cream vanilla',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu-4.png',
+		image: '/images/menu/menu-4.png',
 		name: 'Cappucino',
 		desc: 'Hot Cappucino',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu-5.png',
+		image: '/images/menu/menu-5.png',
 		name: 'Moccacinno',
 		desc: 'Hot Moccacino',
 		count: '12 K',
 		rating: 4.8,
 	},
 	{
-		image: '/images/menu-6.png',
+		image: '/images/menu/menu-6.png',
 		name: 'Waffle Ice Crem',
 		desc: 'Wafle with Ice cream',
 		count: '12 K',

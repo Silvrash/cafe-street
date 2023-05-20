@@ -29,9 +29,17 @@ const HowToUseDeliveryService = () => {
 					How to use delivery <span className="underline decoration-primary decoration-4">service</span>
 				</div>
 				<div className="mt-12 grid lg:grid-cols-2 xl:grid-cols-3 grid-cols-1 gap-9 ">
-					{renderService('choose your coffee', 'there are 20+ coffees for you', '/images/service-1.png')}
-					{renderService('we delivery it to you', 'Choose delivery service', '/images/service-2.png')}
-					{renderService('Enjoy your coffee', 'Choose delivery service', '/images/service-3.png')}
+					{renderService(
+						'choose your coffee',
+						'there are 20+ coffees for you',
+						'/images/services/service-1.png',
+					)}
+					{renderService(
+						'we delivery it to you',
+						'Choose delivery service',
+						'/images/services/service-2.png',
+					)}
+					{renderService('Enjoy your coffee', 'Choose delivery service', '/images/services/service-3.png')}
 				</div>
 			</PageContainer.Content>
 		</PageContainer>

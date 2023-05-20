@@ -1,5 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -15,7 +17,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -24,7 +25,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -49,12 +49,11 @@
   </p>
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-
-Cafe Street is a UI kit design by <a href='https://www.figma.com/@rauliqbal'>Rauliqbal</a> and and implemented as a code project. 
+Cafe Street is a UI kit design by <a href='https://www.figma.com/@rauliqbal'>Rauliqbal</a> and and implemented as a code project.
 
 The UI kit is designed to provide a seamless and user-friendly experience for ordering coffee, with a focus on modern design and functionality.
 The code implementation of the Cafe Street UI kit is just a challenge to the author of this code.
@@ -64,18 +63,18 @@ The code implementation of the Cafe Street UI kit is just a challenge to the aut
 </span>
 
 <br/><br/><br/>
+
 <!-- ![design1](https://user-images.githubusercontent.com/35709836/237050169-d9ab7cec-ae50-4390-98db-49f4171566dc.png)
 ![design2](https://user-images.githubusercontent.com/35709836/237050206-09b2faab-324c-4940-9c15-e4ada0235cb9.png)
  -->
 
 ### Built With
-* [![React][React.js]][React-url]
-* [![NextJS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)](http://nextjs.org)
 
-
-
+-   [![React][React.js]][React-url]
+-   [![NextJS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)](http://nextjs.org)
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -83,65 +82,61 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
 ### Installation
 
-
 1. Clone the repo
-   ```sh
-   git clone https://github.com/Silvrash/cafe-street.git
-   ```
+    ```sh
+    git clone https://github.com/Silvrash/cafe-street.git
+    ```
 2. Install NPM packages
-   ```sh
-   yarn install
-   ```
+    ```sh
+    yarn install
+    ```
 3. To start the development server
-   ```sh
-   yarn dev
-   ```
-
-
+    ```sh
+    yarn dev
+    ```
 
 <!-- USAGE EXAMPLES -->
+
 ## Build Usage
 
 1. Build
-   ```sh
-   yarn build
-   ```
+    ```sh
+    yarn build
+    ```
 2. Run build
-   ```sh
-   yarn start
-   ```
-
+    ```sh
+    yarn start
+    ```
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the GNU General Public License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Benjamin Arko Afrasah - [@silvrash]([https://github.com/Silvrash]) - barkoafrasah@gmail.com
 
 Project Link: [https://github.com/Silvrash/cafe-street](https://github.com/Silvrash/cafe-street)
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Rauliqbal](https://www.figma.com/@rauliqbal)
-* [UI8](https://ui8.net)
-
-
+-   [Rauliqbal](https://www.figma.com/@rauliqbal)
+-   [UI8](https://ui8.net)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Silvrash/cafe-street.svg?style=plastic
 [contributors-url]: https://github.com/Silvrash/cafe-street/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Silvrash/cafe-street.svg?style=plastic

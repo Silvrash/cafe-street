@@ -20,7 +20,7 @@ const Landing = () => {
 	return (
 		<PageContainer className="min-h-screen bg-[#F6EBDA] pt-9">
 			<Image
-				src="/images/bg_img_hero_top.png"
+				src="/images/hero/bg_img_hero_top.png"
 				alt="bg_img_hero"
 				width={599}
 				height={394}
@@ -28,14 +28,11 @@ const Landing = () => {
 			/>
 
 			<Image
-				src="/images/bg_img_hero_bottom.png"
+				src="/images/hero/bg_img_hero_bottom.png"
 				alt="bg_img_hero"
 				width={569}
 				height={394}
-				className={clsx(
-					'object-contain absolute left-2 bottom-[30%]',
-					'md:-left-[10%] md:bottom-[35%]',
-				)}
+				className={clsx('object-contain absolute left-2 bottom-[30%]', 'md:-left-[10%] md:bottom-[35%]')}
 			/>
 			<PageContainer.Content className="relative">
 				<nav className="flex flex-row justify-between items-center">

@@ -13,17 +13,17 @@ const reviews: ReviewItem[] = [
 	{
 		name: 'Naura',
 		comment: 'I really love the cappuccino, the coffee was very smooth',
-		image: '/images/review-1.png',
+		image: '/images/reviews/review-1.png',
 	},
 	{
 		name: 'John',
 		comment: 'this coffee shop is very convenient',
-		image: '/images/review-2.png',
+		image: '/images/reviews/review-2.png',
 	},
 	{
 		name: 'Azura',
 		comment: 'the coffee menu here is very much',
-		image: '/images/review-3.png',
+		image: '/images/reviews/review-3.png',
 	},
 ];
 
@@ -55,7 +55,7 @@ const WhatTheySayAboutUs = () => {
 			className={clsx(
 				'min-h-[30.25rem] relative overflow-hidden justify-center',
 				"py-36 bg-[url('/images/coffee-cups.svg')] bg-opacity-30 mt-20",
-				"2xl:bg-none"
+				'2xl:bg-none',
 			)}
 		>
 			<div className="hidden 2xl:flex absolute self-center  flex-col justify-center  left-0 min-h-[30.25rem] w-[70%] bg-[70%] rounded-r-3xl bg-[url('/images/coffee-cups.svg')] bg-opacity-30" />

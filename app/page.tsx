@@ -6,7 +6,6 @@ import PopularNow from '@/app/sections/PopularNow';
 import Subscribe from '@/app/sections/Subscribe';
 import WhatTheySayAboutUs from '@/app/sections/WhatTheySayAboutUs';
 
-
 export default function Home() {
 	return (
 		<main className="">
