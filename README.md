@@ -53,7 +53,7 @@
 
 ## About The Project
 
-Cafe Street is a UI kit design by <a href='https://www.figma.com/@rauliqbal'>Rauliqbal</a> and and implemented as a code project.
+Cafe Street is a UI kit design by <a href='https://www.figma.com/@rauliqbal'>Rauliqbal</a> and implemented as a code project.
 
 The UI kit is designed to provide a seamless and user-friendly experience for ordering coffee, with a focus on modern design and functionality.
 The code implementation of the Cafe Street UI kit is just a challenge to the author of this code.
@@ -63,9 +63,6 @@ The code implementation of the Cafe Street UI kit is just a challenge to the aut
 </span>
 
 <br/><br/><br/>
-
-<!-- ![design1](https://user-images.githubusercontent.com/35709836/237050169-d9ab7cec-ae50-4390-98db-49f4171566dc.png)
-![design2](https://user-images.githubusercontent.com/35709836/237050206-09b2faab-324c-4940-9c15-e4ada0235cb9.png)
  -->
 
 ### Built With
