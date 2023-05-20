@@ -1,12 +1,20 @@
-'use client'
+'use client';
 
 import Image from 'next/image';
-import { useMediaQuery } from './hooks/useMediaQuery';
+import { useRef } from 'react';
 
+const lg = '(min-width: 1024px)';
 const HeroImage = () => {
-	const matches = useMediaQuery('(min-width: 1024px)');
-    console.log(matches)
-	return <Image src="/images/hero/img-hero.webp" alt="landing_cup" width={416} height={416} priority={matches}/>;
+	const priority = useRef(window.matchMedia(lg).matches);
+	return (
+		<Image
+			src="/images/hero/img-hero.webp"
+			alt="landing_cup"
+			width={416}
+			height={416}
+			priority={priority.current}
+		/>
+	);
 };
 
 export default HeroImage;
