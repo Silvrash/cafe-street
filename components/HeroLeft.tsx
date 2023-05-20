@@ -8,7 +8,7 @@ const HeroLeft = () => {
 				Enjoy your <span className="text-primary">coffee</span> <br /> before your activity
 			</div>
 			<div className="mt-6 mb-8 text-[#7E7D7A] text-lg font-normal">
-				Boost your productivity and build your <br />
+				Boost your productivity and build your <br className='hidden lg:block'/>
 				mood with a glass of coffee in the morning
 			</div>
 			<div className={clsx('flex gap-14', 'justify-center', 'lg:justify-start')}>
