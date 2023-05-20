@@ -60,7 +60,7 @@ The UI kit is designed to provide a seamless and user-friendly experience for or
 The code implementation of the Cafe Street UI kit is just a challenge to the author of this code.
 
 <span>
-  <img src="https://user-images.githubusercontent.com/35709836/237042276-9e2d5d46-3a4e-4cdb-949d-5e5a7b6a0911.png" alt="screenshot1" height="512">
+  <img width="512" alt="image" src="https://github.com/Silvrash/cafe-street/assets/35709836/86e36acf-83da-4f7a-b779-b4b7fabb4cf4">
 </span>
 
 <br/><br/><br/>
@@ -126,7 +126,7 @@ Distributed under the GNU General Public License. See `LICENSE` for more informa
 
 Benjamin Arko Afrasah - [@silvrash]([https://github.com/Silvrash]) - barkoafrasah@gmail.com
 
-Project Link: [https://github.com/Silvrash/tickme](https://github.com/Silvrash/tickme)
+Project Link: [https://github.com/Silvrash/cafe-street](https://github.com/Silvrash/cafe-street)
 
 
 
@@ -142,16 +142,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=plastic
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=plastic
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=plastic
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=plastic
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=plastic
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Silvrash/cafe-street.svg?style=plastic
+[contributors-url]: https://github.com/Silvrash/cafe-street/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Silvrash/cafe-street.svg?style=plastic
+[forks-url]: https://github.com/Silvrash/cafe-street/network/members
+[stars-shield]: https://img.shields.io/github/stars/Silvrash/cafe-street.svg?style=plastic
+[stars-url]: https://github.com/Silvrash/cafe-street/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Silvrash/cafe-street.svg?style=plastic
+[issues-url]: https://github.com/Silvrash/cafe-street/issues
+[license-shield]: https://img.shields.io/github/license/Silvrash/cafe-street.svg?style=plastic
+[license-url]: https://github.com/Silvrash/cafe-street/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
