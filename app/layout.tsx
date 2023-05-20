@@ -16,7 +16,9 @@ The code implementation of the Cafe Street UI kit is just a challenge to the aut
 export default function RootLayout({ children }: { children: React.ReactNode }) {
 	return (
 		<html lang="en">
-			<body className={poppins.className}>{children}</body>
+			<body className={poppins.className} suppressHydrationWarning>
+				{children}
+			</body>
 		</html>
 	);
 }
