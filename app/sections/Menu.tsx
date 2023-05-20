@@ -62,7 +62,7 @@ const Menu = () => {
 			<div className="flex flex-col items-center justify-center">
 				<div
 					className={clsx(
-						'2xl:w-[22.25rem] glass glass_anim min-h-[24.063rem] bg-white shadow py-6 px-4 rounded-xl relative',
+						'2xl:w-[22.25rem] xl:w-[20rem] glass glass_anim min-h-[24.063rem] bg-white shadow py-6 px-4 rounded-xl relative',
 						'flex flex-col items-center',
 					)}
 				>

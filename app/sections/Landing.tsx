@@ -33,7 +33,7 @@ const Landing = () => {
 				alt="bg_img_hero"
 				width={569}
 				height={394}
-				className={clsx('object-contain absolute left-2 bottom-[30%]', 'md:-left-[10%] md:bottom-[35%]')}
+				className={clsx('object-contain absolute left-2 bottom-[30%]', 'md:-left-[15%] md:bottom-[38%]')}
 				priority
 			/>
 			<PageContainer.Content className="relative">

@@ -33,7 +33,7 @@ const description = 'We always provide the best service and always maintain the 
 const WhatTheySayAboutUs = () => {
 	function renderReview(item: ReviewItem) {
 		return (
-			<div className="col-span-1 sm:last:col-span-2 2xl:last:col-span-1 sm:mx-auto">
+			<div className="col-span-1 sm:last:col-span-2 xl:last:col-span-1 sm:mx-auto">
 				<div className="w-[16.068rem] relative">
 					<Image
 						src={item.image}
@@ -55,20 +55,20 @@ const WhatTheySayAboutUs = () => {
 			className={clsx(
 				'min-h-[30.25rem] relative overflow-hidden justify-center',
 				"py-36 bg-[url('/images/coffee-cups.svg')] bg-opacity-30 mt-20",
-				'2xl:bg-none',
+				'xl:bg-none',
 			)}
 		>
-			<div className="hidden 2xl:flex absolute self-center  flex-col justify-center  left-0 min-h-[30.25rem] w-[70%] bg-[70%] rounded-r-3xl bg-[url('/images/coffee-cups.svg')] bg-opacity-30" />
-			<div className="hidden 2xl:grid absolute right-[5%] col-span-2 pl-24 grid-cols-3 gap-12">
+			<div className="hidden xl:flex absolute self-center  flex-col justify-center  left-0 min-h-[30.25rem] w-[70%] bg-[70%] rounded-r-3xl bg-[url('/images/coffee-cups.svg')] bg-opacity-30" />
+			<div className="hidden xl:grid absolute right-8 col-span-2 pl-24 grid-cols-3 gap-12">
 				{Children.toArray(reviews.map(renderReview))}
 			</div>
-			<PageContainer.Content className="hidden 2xl:grid z-10 my-auto grid-cols-3">
+			<PageContainer.Content className="hidden xl:grid z-10 my-auto grid-cols-3">
 				<div className="col-span-1">
 					<div className="font-semibold text-3xl">{title}</div>
 					<div className="text-[#7E7D7A] font-normal text-lg mt-4 w-[90%]">{description}</div>
 				</div>
 			</PageContainer.Content>
-			<PageContainer.Content className={'z-10 my-auto grid grid-cols-1 2xl:hidden'}>
+			<PageContainer.Content className={'z-10 my-auto grid grid-cols-1 xl:hidden'}>
 				<div className="col-span-1 flex flex-col items-center">
 					<div className="font-semibold text-3xl text-center xl:text-start">{title}</div>
 					<div className="text-[#7E7D7A] font-normal text-lg mt-4 w-[90%] text-center xl:text-start">
